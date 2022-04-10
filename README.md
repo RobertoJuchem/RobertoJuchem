@@ -1,6 +1,6 @@
 ### Roberto Juchem
 
-- 🌱 I’m currently learning front-end | JS | TSC | React JS
+- 🌱 I’m currently learning JS | TSC | React JS | PHP | MySQL
 - 📫 How to reach me: juchemroberto@gmail.com
 
 <div align="center">
